@@ -1,0 +1,239 @@
+2025-03-08 22:35:10,324 - INFO - ====== WebDriver manager ======
+2025-03-08 22:35:11,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 22:35:12,471 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 22:35:13,025 - INFO - Driver [C:\Users\Ebaad Raheem\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 22:35:19,935 - INFO - Not logged in
+2025-03-08 22:37:32,167 - INFO - Could not determine application progress percentage
+2025-03-08 22:37:32,209 - INFO - Processing application step 1
+2025-03-08 22:37:55,594 - INFO - Processing application step 2
+2025-03-08 22:37:56,038 - INFO - Filled required text field: single-line-text-form-component-formelement-urn-li-jobs-applyformcommon-easyapplyformelement-4180404612-15024603922-numeric
+2025-03-08 22:38:10,013 - INFO - Processing application step 2
+2025-03-08 22:38:37,272 - INFO - Could not determine application progress percentage
+2025-03-08 22:38:37,296 - INFO - Processing application step 1
+2025-03-08 22:39:01,822 - INFO - Processing application step 2
+2025-03-08 22:39:02,042 - INFO - Selected 'Yes' option for urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4178863824,16575923100,multipleChoice)
+2025-03-08 22:39:02,576 - WARNING - Could not process radio button: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00C40B43+25139]
+	(No symbol) [0x00BD13F4]
+	(No symbol) [0x00AB04E3]
+	(No symbol) [0x00AB6F01]
+	(No symbol) [0x00AB9253]
+	(No symbol) [0x00B3F765]
+	(No symbol) [0x00B1CFCC]
+	(No symbol) [0x00B3E778]
+	(No symbol) [0x00B1CDC6]
+	(No symbol) [0x00AEBDE9]
+	(No symbol) [0x00AED124]
+	GetHandleVerifier [0x00F44373+3185251]
+	GetHandleVerifier [0x00F6291A+3309578]
+	GetHandleVerifier [0x00F5CF42+3286578]
+	GetHandleVerifier [0x00CD7AE0+643536]
+	(No symbol) [0x00BDA20D]
+	(No symbol) [0x00BD70B8]
+	(No symbol) [0x00BD7257]
+	(No symbol) [0x00BC9E00]
+	BaseThreadInitThunk [0x77277BA9+25]
+	RtlInitializeExceptionChain [0x779AC28B+107]
+	RtlClearBits [0x779AC20F+191]
+
+2025-03-08 22:39:28,944 - INFO - Processing application step 3
+2025-03-08 22:39:48,144 - INFO - Processing application step 3
+2025-03-08 22:39:48,365 - INFO - Selected 'Yes' option for urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4178863824,16575923068,multipleChoice)
+2025-03-08 22:39:48,898 - WARNING - Could not process radio button: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00C40B43+25139]
+	(No symbol) [0x00BD13F4]
+	(No symbol) [0x00AB04E3]
+	(No symbol) [0x00AB6F01]
+	(No symbol) [0x00AB9253]
+	(No symbol) [0x00B3F765]
+	(No symbol) [0x00B1CFCC]
+	(No symbol) [0x00B3E778]
+	(No symbol) [0x00B1CDC6]
+	(No symbol) [0x00AEBDE9]
+	(No symbol) [0x00AED124]
+	GetHandleVerifier [0x00F44373+3185251]
+	GetHandleVerifier [0x00F6291A+3309578]
+	GetHandleVerifier [0x00F5CF42+3286578]
+	GetHandleVerifier [0x00CD7AE0+643536]
+	(No symbol) [0x00BDA20D]
+	(No symbol) [0x00BD70B8]
+	(No symbol) [0x00BD7257]
+	(No symbol) [0x00BC9E00]
+	BaseThreadInitThunk [0x77277BA9+25]
+	RtlInitializeExceptionChain [0x779AC28B+107]
+	RtlClearBits [0x779AC20F+191]
+
+2025-03-08 22:39:49,015 - INFO - Selected 'Yes' option for urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4178863824,16575923092,multipleChoice)
+2025-03-08 22:39:49,549 - WARNING - Could not process radio button: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00C40B43+25139]
+	(No symbol) [0x00BD13F4]
+	(No symbol) [0x00AB04E3]
+	(No symbol) [0x00AB6F01]
+	(No symbol) [0x00AB9253]
+	(No symbol) [0x00B3F765]
+	(No symbol) [0x00B1CFCC]
+	(No symbol) [0x00B3E778]
+	(No symbol) [0x00B1CDC6]
+	(No symbol) [0x00AEBDE9]
+	(No symbol) [0x00AED124]
+	GetHandleVerifier [0x00F44373+3185251]
+	GetHandleVerifier [0x00F6291A+3309578]
+	GetHandleVerifier [0x00F5CF42+3286578]
+	GetHandleVerifier [0x00CD7AE0+643536]
+	(No symbol) [0x00BDA20D]
+	(No symbol) [0x00BD70B8]
+	(No symbol) [0x00BD7257]
+	(No symbol) [0x00BC9E00]
+	BaseThreadInitThunk [0x77277BA9+25]
+	RtlInitializeExceptionChain [0x779AC28B+107]
+	RtlClearBits [0x779AC20F+191]
+
+2025-03-08 22:40:02,308 - INFO - Processing application step 3
+2025-03-08 22:40:29,546 - INFO - Could not determine application progress percentage
+2025-03-08 22:40:29,573 - INFO - Processing application step 1
+2025-03-08 22:40:42,980 - INFO - Processing application step 1
+2025-03-08 22:41:17,005 - INFO - Could not determine application progress percentage
+2025-03-08 22:41:17,024 - INFO - Processing application step 1
+2025-03-08 22:41:32,262 - INFO - Processing application step 1
+2025-03-08 22:41:58,070 - INFO - Could not determine application progress percentage
+2025-03-08 22:41:58,099 - INFO - Processing application step 1
+2025-03-08 22:42:23,222 - INFO - Processing application step 2
+2025-03-08 22:42:23,687 - WARNING - Could not process select: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00C40B43+25139]
+	(No symbol) [0x00BD13F4]
+	(No symbol) [0x00AB04E3]
+	(No symbol) [0x00AB6F01]
+	(No symbol) [0x00AB900A]
+	(No symbol) [0x00AB9087]
+	(No symbol) [0x00AF30EE]
+	(No symbol) [0x00B1CFCC]
+	(No symbol) [0x00AED9A4]
+	(No symbol) [0x00B1D244]
+	(No symbol) [0x00B3E778]
+	(No symbol) [0x00B1CDC6]
+	(No symbol) [0x00AEBDE9]
+	(No symbol) [0x00AED124]
+	GetHandleVerifier [0x00F44373+3185251]
+	GetHandleVerifier [0x00F6291A+3309578]
+	GetHandleVerifier [0x00F5CF42+3286578]
+	GetHandleVerifier [0x00CD7AE0+643536]
+	(No symbol) [0x00BDA20D]
+	(No symbol) [0x00BD70B8]
+	(No symbol) [0x00BD7257]
+	(No symbol) [0x00BC9E00]
+	BaseThreadInitThunk [0x77277BA9+25]
+	RtlInitializeExceptionChain [0x779AC28B+107]
+	RtlClearBits [0x779AC20F+191]
+
+2025-03-08 22:42:24,003 - WARNING - Could not process select: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00C40B43+25139]
+	(No symbol) [0x00BD13F4]
+	(No symbol) [0x00AB04E3]
+	(No symbol) [0x00AB6F01]
+	(No symbol) [0x00AB900A]
+	(No symbol) [0x00AB9087]
+	(No symbol) [0x00AF30EE]
+	(No symbol) [0x00B1CFCC]
+	(No symbol) [0x00AED9A4]
+	(No symbol) [0x00B1D244]
+	(No symbol) [0x00B3E778]
+	(No symbol) [0x00B1CDC6]
+	(No symbol) [0x00AEBDE9]
+	(No symbol) [0x00AED124]
+	GetHandleVerifier [0x00F44373+3185251]
+	GetHandleVerifier [0x00F6291A+3309578]
+	GetHandleVerifier [0x00F5CF42+3286578]
+	GetHandleVerifier [0x00CD7AE0+643536]
+	(No symbol) [0x00BDA20D]
+	(No symbol) [0x00BD70B8]
+	(No symbol) [0x00BD7257]
+	(No symbol) [0x00BC9E00]
+	BaseThreadInitThunk [0x77277BA9+25]
+	RtlInitializeExceptionChain [0x779AC28B+107]
+	RtlClearBits [0x779AC20F+191]
+
+2025-03-08 22:42:24,230 - WARNING - Could not process select: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00C40B43+25139]
+	(No symbol) [0x00BD13F4]
+	(No symbol) [0x00AB04E3]
+	(No symbol) [0x00AB6F01]
+	(No symbol) [0x00AB900A]
+	(No symbol) [0x00AB9087]
+	(No symbol) [0x00AF30EE]
+	(No symbol) [0x00B1CFCC]
+	(No symbol) [0x00AED9A4]
+	(No symbol) [0x00B1D244]
+	(No symbol) [0x00B3E778]
+	(No symbol) [0x00B1CDC6]
+	(No symbol) [0x00AEBDE9]
+	(No symbol) [0x00AED124]
+	GetHandleVerifier [0x00F44373+3185251]
+	GetHandleVerifier [0x00F6291A+3309578]
+	GetHandleVerifier [0x00F5CF42+3286578]
+	GetHandleVerifier [0x00CD7AE0+643536]
+	(No symbol) [0x00BDA20D]
+	(No symbol) [0x00BD70B8]
+	(No symbol) [0x00BD7257]
+	(No symbol) [0x00BC9E00]
+	BaseThreadInitThunk [0x77277BA9+25]
+	RtlInitializeExceptionChain [0x779AC28B+107]
+	RtlClearBits [0x779AC20F+191]
+
+2025-03-08 22:42:24,461 - WARNING - Could not process select: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00C40B43+25139]
+	(No symbol) [0x00BD13F4]
+	(No symbol) [0x00AB04E3]
+	(No symbol) [0x00AB6F01]
+	(No symbol) [0x00AB900A]
+	(No symbol) [0x00AB9087]
+	(No symbol) [0x00AF30EE]
+	(No symbol) [0x00B1CFCC]
+	(No symbol) [0x00AED9A4]
+	(No symbol) [0x00B1D244]
+	(No symbol) [0x00B3E778]
+	(No symbol) [0x00B1CDC6]
+	(No symbol) [0x00AEBDE9]
+	(No symbol) [0x00AED124]
+	GetHandleVerifier [0x00F44373+3185251]
+	GetHandleVerifier [0x00F6291A+3309578]
+	GetHandleVerifier [0x00F5CF42+3286578]
+	GetHandleVerifier [0x00CD7AE0+643536]
+	(No symbol) [0x00BDA20D]
+	(No symbol) [0x00BD70B8]
+	(No symbol) [0x00BD7257]
+	(No symbol) [0x00BC9E00]
+	BaseThreadInitThunk [0x77277BA9+25]
+	RtlInitializeExceptionChain [0x779AC28B+107]
+	RtlClearBits [0x779AC20F+191]
+
+2025-03-08 22:42:24,815 - INFO - Filled required text field: single-line-text-form-component-formelement-urn-li-jobs-applyformcommon-easyapplyformelement-4180309454-15016735378-text
+2025-03-08 22:42:50,760 - INFO - Processing application step 3
+2025-03-08 22:43:15,493 - INFO - Processing application step 4
+2025-03-08 22:43:29,239 - INFO - Processing application step 4
+2025-03-08 22:43:42,420 - INFO - Processing application step 4
+2025-03-08 22:44:20,861 - INFO - ====== WebDriver manager ======
+2025-03-08 22:44:22,110 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 22:44:22,718 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 22:44:28,690 - INFO - Driver [C:\Users\Ebaad Raheem\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-08 22:44:34,548 - INFO - Not logged in
+2025-03-08 22:46:15,139 - INFO - Could not determine application progress percentage
+2025-03-08 22:46:15,157 - INFO - Processing application step 1
+2025-03-08 22:46:39,472 - INFO - Processing application step 2
+2025-03-08 22:47:03,886 - INFO - Processing application step 3
+2025-03-08 22:47:18,013 - INFO - Processing application step 3
+2025-03-08 22:47:58,723 - ERROR - Error processing URL https://www.linkedin.com/jobs/search/?f_AL=true&keywords=frontend&f_JT=F%2CP%2CC&f_WT=1%2C2%2C3&location=NorthAmerica&geoId=102221843&&f_E=2&f_TPR=r604800&f_SB2=3&sortBy=DD
+: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
