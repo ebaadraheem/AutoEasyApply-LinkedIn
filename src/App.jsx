@@ -13,6 +13,7 @@ import Payment from './components/SuccessfulPayment/Payment'
 import CategoryPage from './components/CategoryPage'
 function App() {
 
+  
   const [data, setdata] = useState([])
   const [Query, setQuery] = useState("")
   const [favourite, setfavourite] = useState([])
@@ -117,3 +118,4 @@ useEffect(() => {
 }
 
 export default App
+
