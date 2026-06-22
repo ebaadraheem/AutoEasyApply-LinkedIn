@@ -4,8 +4,8 @@
 browser = ["Chrome"]
 # Enter your Linkedin password and username below. Do not commit this file after entering these credentials.
 # Linkedin credentials
-email = "mubeensheikh990011@gmail.com"
-password = "mubeen123321"
+email = "YOUR_EMAIL"
+password = "YOUR_PASSWORD"
 
 #PRO FEATURE - Optional! run browser in headless mode, no browser screen will be shown it will work in background.
 headless = False
@@ -112,9 +112,9 @@ GlobalLogicRemoteWork = ["yes"]
 # Optional! Keyword:["javascript", "react", "angular", ""]
 GlobalLogicKeyword = ["react"]
 # Global Logic Job apply settinngs
-FirstName = "Mubeen"
-LastName = "Sheikh"
-Email = "mubeensheikh990011@gmail.com"
+FirstName = "YOUR_FIRSTNAME"
+LastName = "YOUR_LASTNAME"
+Email = "YOUR_EMAIL"
 LinkedInProfileURL = "www.google.com"
 Phone = "" #OPTIONAL
 Location = "" #OPTIONAL
